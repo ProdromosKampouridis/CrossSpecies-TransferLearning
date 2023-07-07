@@ -8,6 +8,10 @@ For your conveniece, you can download it directly from the following link:
 
 		     https://www.kaggle.com/datasets/erodios/cats-and-dogs
 
+You can also download all our saved models and weights from the link below:
+
+		     https://www.kaggle.com/datasets/erodios/all-in-one
+
 Hope you enjoy it!
 
 
